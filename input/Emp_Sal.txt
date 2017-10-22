@@ -1,0 +1,10 @@
+001	Amit	105	Data Minning
+002	Pankaj	85	Data Engineer
+003	Kiran	110	Data Scientist
+004	Arpitha	95	Data Engineer
+005	Viraj	105	Data Mining
+006	Smitha	80	Data Analyst
+007	Supriya	90	Data Engineer
+008	Vihan	120	Data Scientist
+009	Emma	100	Data Engineer
+010	Siddharath	100	Data Engineer
